@@ -1,1 +1,2 @@
-"# ecom" 
+# ecom
+    A Simple ecommerce webiste.
